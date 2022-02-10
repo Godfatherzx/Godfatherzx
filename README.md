@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Godfatherzx (Евгений Парфенов)
+- 👀 I’m interested in making computer games and little projects for myself and also i'm interested in a job as a junior Python developer
+- 🌱 I’m currently learning Python(using PyCharm), GitHub Desktop and another technologies
+- 📫 How to reach me: Discord: Godfather_zx#9200, https://vk.com/parkanargus, Skype: https://join.skype.com/invite/BtStHjgxsuhI, 🤪Steam: godfatherzx
